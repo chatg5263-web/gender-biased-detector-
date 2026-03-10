@@ -1,0 +1,5 @@
+{
+  "name": "Gender Bias Detector",
+  "description": "A linguistic assistant that detects gender bias and stereotypes in text using AI.",
+  "requestFramePermissions": []
+}
